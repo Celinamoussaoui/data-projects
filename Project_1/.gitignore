@@ -1,0 +1,13 @@
+# Ignorer les fichiers inutiles
+__pycache__/
+*.log
+.env
+venv/
+project_venv/
+*.sqlite3
+airflow/airflow-webserver.pid
+airflow/airflow.cfg
+airflow/airflow.db
+airflow/logs/
+airflow/webserver_config.py
+airflow/logs/

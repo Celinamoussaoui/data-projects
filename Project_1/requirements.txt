@@ -1,0 +1,3 @@
+pandas==1.5.3
+mysql-connector-python==8.0.33
+apache-airflow==2.6.3
